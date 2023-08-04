@@ -1,4 +1,4 @@
-# Youtube_clone-Front-End
+# Golf_website_clone
 https://avikbhanja.github.io/Js_golf_website/ tap here for a quick view
 
 This project is a frontend project which is built using HTML , CSS and JAVASCRIPT . It aims to replicate the user interface and design of a specified website or application. By studying the target website(youtube.com), you can recreate its frontend using HTML for structure , CSS for styling and JAVASCRIPT for responsiveness.
