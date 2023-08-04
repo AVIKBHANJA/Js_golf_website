@@ -59,11 +59,10 @@ frontend-clone/
 
 - `index.html`: The main HTML file that serves as the entry point for the project.
 
-- `css/`: Directory containing the CSS stylesheets.
+- `style.css`: The CSS stylesheet of the page.
 
-- `Profilepic/`: Directory containing all profile images used in the project.
+- `Assests/`: Directory containing all profile images used in the project.
   
-- `icons/`: Directory containing all icons used in the project.
 
 ## Contributing
 
